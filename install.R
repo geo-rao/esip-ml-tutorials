@@ -1,0 +1,11 @@
+## This file install required R packages for the tutorials when the repo is first binderized
+install.packages("readr")
+install.packages("rmarkdown")        
+install.packages("ggplot2")
+install.packages("caret")
+install.packages("cowplot")
+install.packages("dplyr")
+install.packages("magrittr")
+install.packages("e1071")
+install.packages("randomforest")
+install.packages("earth")
