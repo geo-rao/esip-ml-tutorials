@@ -18,3 +18,5 @@ Using *R Notebook* in *RStudio* virtual environment - binder launch button
 Using *R Notebook* in *Jupyter* virtual environment - binder launch button  
 Using *Jupyter notebook* in *Google Colaboratory* (insert link here).
 
+## Original Idea  
+
