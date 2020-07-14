@@ -21,7 +21,7 @@ Using *Jupyter notebook* in *Google Colaboratory* (insert link here).
 ## Original Idea  
 
 
-## History  
+## Release History  
 
 Beta version released on 2020-07-01;  
 First version (v.1.0) released on 2020-07-14; 
