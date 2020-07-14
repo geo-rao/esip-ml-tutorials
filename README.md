@@ -20,9 +20,9 @@ Using *Jupyter notebook* in *Google Colaboratory* (insert link here).
 
 ## Instruction  
 
-To use R Notebook via Binder project, simply click on the _**launch binder**_ button on this page, you will be redirected to a virtual environment supported via [binder project](mybinder.org). You can then directly run/view the code in the virtual environment.  To use it locally, you will need to save a copy of the notebook to your local environment and install required R packages used in the notebook.  
+- To use R Notebook via Binder project, simply click on the _**launch binder**_ button on this page, you will be redirected to a virtual environment supported via [binder project](mybinder.org). You can then directly run/view the code in the virtual environment.  To use it locally, you will need to save a copy of the notebook to your local environment and install required R packages used in the notebook.  
 
-To use Jupyter notebook via Google Colaboratory, simply click on the notebook link. You will be redirected to a notebook in Google Colaboratory virtual environment. Please **save a copy** to your own google drive before running the code.  
+- To use Jupyter notebook via Google Colaboratory, simply click on the notebook link. You will be redirected to a notebook in Google Colaboratory virtual environment. Please **save a copy** to your own google drive before running the code.  
 
 ## Original Idea  
 
