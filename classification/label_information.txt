@@ -1,0 +1,6 @@
+Meta Information:
+Class 0 - forest (includes data from cdl classes: 'forest', 'deciduous forest', 'evergreen forest', 'mixed forest')
+Class 1 - corn (includes data from cdl class 'corn')
+Class 2 - soy (includes data from cdl class 'soybeans')
+Class 3 - developed/urban (includes data from cdl classes 'developed/open space', 'developed/low intensity', 'developed/med intensity', 'developed/high intensity')
+Class 4 - water (includes data from cdl class 'open water')
