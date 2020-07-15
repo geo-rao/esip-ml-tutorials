@@ -12,17 +12,17 @@ This is the repository for ESIP Machine Learning cluster training tutorials deve
 
 (Last updated 2020-07-14)
 
-Using *R Notebook* in *RStudio* virtual environment - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-yrao/esip-ml-tutorials/master)   
-Using *R Notebook* in *Jupyter* virtual environment - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-yrao/esip-ml-tutorials/master)  
-Using *Jupyter notebook* in *Google Colaboratory* (insert link here).
+- Using *R Notebook* in *RStudio* virtual environment - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-yrao/esip-ml-tutorials/master)   
+- Using *R Notebook* in *Jupyter* virtual environment - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-yrao/esip-ml-tutorials/master)  
+- Using *Jupyter notebook* in *Google Colaboratory* (insert link here).
 
 ## Regression
 
 (Last updated 2020-07-14)
 
-Using *R Notebook* in *RStudio* virtual environment - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-yrao/esip-ml-tutorials/master)  
-Using *R Notebook* in *Jupyter* virtual environment - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-yrao/esip-ml-tutorials/master)  
-Using *Jupyter notebook* in *Google Colaboratory* (insert link here).
+- Using *R Notebook* in *RStudio* virtual environment - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-yrao/esip-ml-tutorials/master)  
+- Using *R Notebook* in *Jupyter* virtual environment - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-yrao/esip-ml-tutorials/master)  
+- Using *Jupyter notebook* in *Google Colaboratory* (insert link here).
 
 ## Original Idea  
 
