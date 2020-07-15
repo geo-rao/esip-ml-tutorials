@@ -51,7 +51,7 @@ Check out the following links for more information:
 Before we starts to read in the data, we need to load libraries that will be used in the notebook. We will heavily rely on [**caret**](https://topepo.github.io/caret/index.html) library in R for model training. *caret* is a powerful wrapper package which calls hunders of machine learning packages in R and it simplify model training and application process. The pacakge currently supports 238 models that can be implemented in R using the same *train* and *prediction* procedures.  
 
 ```{r initialization, message=FALSE}
-library(caret); library(e1071); library(randomForest)             # pacakge for ML model
+library(caret); library(e1071); library(ranger)                   # pacakge for ML model
 library(ggplot2); library(cowplot)                                # package for visualization
 library(readr); library(dplyr); library(raster)                   # package for data handeling
 ```
@@ -62,8 +62,7 @@ First thing first, we will read in the data for this notebook which is included 
 
 ```{r, message= FALSE, warning = FALSE}
 ## Here, we read in the data pairs between reflectance (scale factor: 0.0001) and land cover types
-# fname <- "~/NC_L8_GroundTruth.csv"
-fname <- "~/MLtraining/noaa-ai-ml-distribution-raju/lulc-ashville/NC_L8_GroundTruth.csv"
+fname <- "~/NC_L8_GroundTruth.csv"
 AVLData <- read_csv(fname); AVLData$Class <- factor(AVLData$Class, labels = c("Forest", "Corn", "Soy", "Urban", "Water"))
 ```
 
