@@ -14,7 +14,7 @@ This is the repository for ESIP Machine Learning cluster training tutorials deve
 
 - Using *R Notebook* in *RStudio* virtual environment - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-yrao/esip-ml-tutorials/master?urlpath=rstudio?/classification/ESIP-Machine-Learning-Tutorial-Classification.Rmd)  
 - Using *R Notebook* in *Jupyter* virtual environment - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-yrao/esip-ml-tutorials/master?filepath=classification%2FESIP-Machine-Learning-Tutorial-Classification-R.ipynb)  
-- Using *Jupyter notebook* in *Google Colaboratory* - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geo-yrao/esip-ml-tutorials/blob/master/classification/ESIP_Machine_Learning_Tutorials_Classification-Python.ipynb).
+- Using *Jupyter notebook* in *Google Colaboratory* - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geo-yrao/esip-ml-tutorials/blob/master/classification/ESIP_Machine_Learning_Tutorials_Classification-Python.ipynb)
 
 ## Regression
 
