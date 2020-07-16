@@ -4,9 +4,9 @@ This is the repository for ESIP Machine Learning cluster training tutorials deve
 
 ## Instruction  
 
-- To use R Notebook via Binder project, simply click on the _**launch binder**_ button on this page, you will be redirected to a virtual environment supported via [binder project](mybinder.org). You can then directly run/view the code in the virtual environment.  To use it locally, you will need to save a copy of the notebook to your local environment and install required R packages used in the notebook.  
+- To use R Notebook via Binder project, simply click on the ![Binder](https://mybinder.org/badge_logo.svg) button on this page, you will be redirected to a virtual environment supported via [binder project](mybinder.org). You can then directly run/view the code in the virtual environment.  To use it locally, you will need to save a copy of the notebook to your local environment and install required R packages used in the notebook.  
 
-- To use Jupyter notebook via Google Colaboratory, simply click on the **Open in Colab** button on this page, you will be redirected to a virtual environment supported via [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc). You will need to click on the _**Connect**_ button on the top right corner. To use it locally, you can save a copy of the notebook to your local environment and install required packages used in the notebook. An alternative way is to save a copy of the notebook to your own google drive and open it via Google Colab.   
+- To use Jupyter notebook via Google Colaboratory, simply click on the ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) button on this page, you will be redirected to a virtual environment supported via [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc). You will need to click on the _**Connect**_ button on the top right corner. To use it locally, you can save a copy of the notebook to your local environment and install required packages used in the notebook. An alternative way is to save a copy of the notebook to your own google drive and open it via Google Colab.   
 
 ## Classification  
 
