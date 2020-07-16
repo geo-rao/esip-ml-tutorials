@@ -6,7 +6,7 @@ This is the repository for ESIP Machine Learning cluster training tutorials deve
 
 - To use R Notebook via Binder project, simply click on the _**launch binder**_ button on this page, you will be redirected to a virtual environment supported via [binder project](mybinder.org). You can then directly run/view the code in the virtual environment.  To use it locally, you will need to save a copy of the notebook to your local environment and install required R packages used in the notebook.  
 
-- To use Jupyter notebook via Google Colaboratory, simply click on the notebook link. You will be redirected to a notebook in Google Colaboratory virtual environment. Please **save a copy** to your own google drive before running the code.  
+- To use Jupyter notebook via Google Colaboratory, simply click on the **launch_Colab**_ button on this page, you will be redirected to a virtual environment supported via [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc). You will need to click on the _**Connect**_ button on the top right corner. To use it locally, you will need to save a copy of the notebook to your local environment and install required R packages used in the notebook.   
 
 ## Classification  
 
@@ -14,7 +14,7 @@ This is the repository for ESIP Machine Learning cluster training tutorials deve
 
 - Using *R Notebook* in *RStudio* virtual environment - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-yrao/esip-ml-tutorials/master?urlpath=rstudio?/classification/ESIP-Machine-Learning-Tutorial-Classification.Rmd)  
 - Using *R Notebook* in *Jupyter* virtual environment - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-yrao/esip-ml-tutorials/master?filepath=classification%2FESIP-Machine-Learning-Tutorial-Classification-R.ipynb)  
-- Using *Jupyter notebook* in *Google Colaboratory* (insert link here).
+- Using *Jupyter notebook* in *Google Colaboratory* - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geo-yrao/esip-ml-tutorials/blob/master/classification/ESIP_Machine_Learning_Tutorials_Classification-Python.ipynb).
 
 ## Regression
 
