@@ -26,6 +26,9 @@ This is the repository for ESIP Machine Learning cluster training tutorials deve
 
 ## Original Idea  
 
+The idea of developing machine learning tutorials for Earth science community emerged after the ESIP Machine Learning Cluster business session during 2019 ESIP Summer Meeting in Takoma. So we workshoped this idea and participated in FUNding Friday during the summer meeting. With the support from ESIP FUNding Friday, we were able to make our first set of tutorials available. Below is our poster for the FUNding Friday 2019 with a lot of inspirations from the one and only Master Yoda and cheerful minions!
+
+![2019 ESIP FUNding Friday Poster](ESIP-FUNdingFriday-2019.jpg)
 
 ## Release History  
 
